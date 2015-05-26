@@ -1,0 +1,22 @@
+/* Empty. Add your own CSS if you like */
+.button.button-positive {
+  border-color: #006699;
+  background-color: #006699;
+  color: #fff;
+}
+
+.button.button-full {
+
+  margin-top: 80px;
+
+  border-color: #006699;
+  background-color: #006699;
+  color: #fff;
+}
+
+.bar.bar-stable {
+
+	background-color: #F5F5F5;
+
+}
+
